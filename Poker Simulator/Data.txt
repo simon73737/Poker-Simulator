@@ -1,0 +1,125 @@
+PRINTING DATA FOR THE SIMULATIONS
+Data for 100000 simulations
+-------------------------------------------------------------------------------------------------------------------
+There were 226309 hands with a pair, which is 45% of hands
+There were 118294 hands with a two pair, which is 24% of hands
+There were 24350 hands with trips, which is 5% of hands
+There were 6183 hands with a straight, which is 1% of hands
+There were 15335 hands with a flush, which is 3% of hands
+There were 13053 hands with a full house, which is 3% of hands
+There were 848 hands with quads, which is 0% of hands
+There were 1 hands with a straight flush, which is 0% of hands
+There were 0 hands with a royal flush, which is 0% of hands
+--------------------------------------------------------------------------------------------------------------------
+There were 29525 hands with pocket cards, of which 10261 won
+That means 39% of people who were given pocket cards won in a game where someone had pocket cards
+10% of games were won by someone with pocket cards
+--------------------------------------------------------------------------------------------------------------------
+There were 118126 hands that were suited cards
+Of those hands, 7767 hit their flush. That is 7% of suited hands
+-------------------------------------------------------------------------------------------------------------------
+Printing data on how many times each hand won
+The hand: 2, 2 won 528 times, and was dealt 2288 times that comes out to 23% of times it was dealt
+
+The hand: 3, 2 won 831 times, and was dealt 6097 times that comes out to 14% of times it was dealt
+The hand: 3, 3 won 514 times, and was dealt 2244 times that comes out to 23% of times it was dealt
+
+The hand: 4, 2 won 864 times, and was dealt 6027 times that comes out to 14% of times it was dealt
+The hand: 4, 3 won 872 times, and was dealt 6135 times that comes out to 14% of times it was dealt
+The hand: 4, 4 won 571 times, and was dealt 2324 times that comes out to 25% of times it was dealt
+
+The hand: 5, 2 won 905 times, and was dealt 5975 times that comes out to 15% of times it was dealt
+The hand: 5, 3 won 874 times, and was dealt 5978 times that comes out to 15% of times it was dealt
+The hand: 5, 4 won 886 times, and was dealt 6096 times that comes out to 15% of times it was dealt
+The hand: 5, 5 won 576 times, and was dealt 2262 times that comes out to 25% of times it was dealt
+
+The hand: 6, 2 won 865 times, and was dealt 6044 times that comes out to 14% of times it was dealt
+The hand: 6, 3 won 834 times, and was dealt 6010 times that comes out to 14% of times it was dealt
+The hand: 6, 4 won 834 times, and was dealt 5866 times that comes out to 14% of times it was dealt
+The hand: 6, 5 won 898 times, and was dealt 6087 times that comes out to 15% of times it was dealt
+The hand: 6, 6 won 577 times, and was dealt 2245 times that comes out to 26% of times it was dealt
+
+The hand: 7, 2 won 873 times, and was dealt 6128 times that comes out to 14% of times it was dealt
+The hand: 7, 3 won 846 times, and was dealt 6114 times that comes out to 14% of times it was dealt
+The hand: 7, 4 won 926 times, and was dealt 6189 times that comes out to 15% of times it was dealt
+The hand: 7, 5 won 928 times, and was dealt 6041 times that comes out to 15% of times it was dealt
+The hand: 7, 6 won 978 times, and was dealt 6009 times that comes out to 16% of times it was dealt
+The hand: 7, 7 won 614 times, and was dealt 2307 times that comes out to 27% of times it was dealt
+
+The hand: 8, 2 won 826 times, and was dealt 5987 times that comes out to 14% of times it was dealt
+The hand: 8, 3 won 892 times, and was dealt 5951 times that comes out to 15% of times it was dealt
+The hand: 8, 4 won 963 times, and was dealt 6131 times that comes out to 16% of times it was dealt
+The hand: 8, 5 won 989 times, and was dealt 6103 times that comes out to 16% of times it was dealt
+The hand: 8, 6 won 949 times, and was dealt 6010 times that comes out to 16% of times it was dealt
+The hand: 8, 7 won 1066 times, and was dealt 6017 times that comes out to 18% of times it was dealt
+The hand: 8, 8 won 683 times, and was dealt 2279 times that comes out to 30% of times it was dealt
+
+The hand: 9, 2 won 909 times, and was dealt 6096 times that comes out to 15% of times it was dealt
+The hand: 9, 3 won 928 times, and was dealt 5980 times that comes out to 16% of times it was dealt
+The hand: 9, 4 won 987 times, and was dealt 5951 times that comes out to 17% of times it was dealt
+The hand: 9, 5 won 1035 times, and was dealt 6090 times that comes out to 17% of times it was dealt
+The hand: 9, 6 won 1045 times, and was dealt 6113 times that comes out to 17% of times it was dealt
+The hand: 9, 7 won 1108 times, and was dealt 5929 times that comes out to 19% of times it was dealt
+The hand: 9, 8 won 1085 times, and was dealt 6027 times that comes out to 18% of times it was dealt
+The hand: 9, 9 won 784 times, and was dealt 2336 times that comes out to 34% of times it was dealt
+
+The hand: 10, 2 won 950 times, and was dealt 6102 times that comes out to 16% of times it was dealt
+The hand: 10, 3 won 945 times, and was dealt 6021 times that comes out to 16% of times it was dealt
+The hand: 10, 4 won 955 times, and was dealt 6094 times that comes out to 16% of times it was dealt
+The hand: 10, 5 won 1055 times, and was dealt 6108 times that comes out to 17% of times it was dealt
+The hand: 10, 6 won 1039 times, and was dealt 6044 times that comes out to 17% of times it was dealt
+The hand: 10, 7 won 1142 times, and was dealt 6022 times that comes out to 19% of times it was dealt
+The hand: 10, 8 won 1170 times, and was dealt 6047 times that comes out to 19% of times it was dealt
+The hand: 10, 9 won 1249 times, and was dealt 6117 times that comes out to 20% of times it was dealt
+The hand: 10, 10 won 831 times, and was dealt 2211 times that comes out to 38% of times it was dealt
+
+The hand: Jack, 2 won 1067 times, and was dealt 6073 times that comes out to 18% of times it was dealt
+The hand: Jack, 3 won 1096 times, and was dealt 6022 times that comes out to 18% of times it was dealt
+The hand: Jack, 4 won 1076 times, and was dealt 6138 times that comes out to 18% of times it was dealt
+The hand: Jack, 5 won 1050 times, and was dealt 6077 times that comes out to 17% of times it was dealt
+The hand: Jack, 6 won 1113 times, and was dealt 6113 times that comes out to 18% of times it was dealt
+The hand: Jack, 7 won 1160 times, and was dealt 6153 times that comes out to 19% of times it was dealt
+The hand: Jack, 8 won 1179 times, and was dealt 6000 times that comes out to 20% of times it was dealt
+The hand: Jack, 9 won 1262 times, and was dealt 5958 times that comes out to 21% of times it was dealt
+The hand: Jack, 10 won 1296 times, and was dealt 5904 times that comes out to 22% of times it was dealt
+The hand: Jack, Jack won 905 times, and was dealt 2244 times that comes out to 40% of times it was dealt
+
+The hand: Queen, 2 won 1103 times, and was dealt 6093 times that comes out to 18% of times it was dealt
+The hand: Queen, 3 won 1059 times, and was dealt 5882 times that comes out to 18% of times it was dealt
+The hand: Queen, 4 won 1068 times, and was dealt 5982 times that comes out to 18% of times it was dealt
+The hand: Queen, 5 won 1177 times, and was dealt 5908 times that comes out to 20% of times it was dealt
+The hand: Queen, 6 won 1152 times, and was dealt 5958 times that comes out to 19% of times it was dealt
+The hand: Queen, 7 won 1184 times, and was dealt 6098 times that comes out to 19% of times it was dealt
+The hand: Queen, 8 won 1224 times, and was dealt 5955 times that comes out to 21% of times it was dealt
+The hand: Queen, 9 won 1396 times, and was dealt 6045 times that comes out to 23% of times it was dealt
+The hand: Queen, 10 won 1406 times, and was dealt 5945 times that comes out to 24% of times it was dealt
+The hand: Queen, Jack won 1409 times, and was dealt 5951 times that comes out to 24% of times it was dealt
+The hand: Queen, Queen won 1059 times, and was dealt 2270 times that comes out to 47% of times it was dealt
+
+The hand: King, 2 won 1201 times, and was dealt 6042 times that comes out to 20% of times it was dealt
+The hand: King, 3 won 1179 times, and was dealt 6009 times that comes out to 20% of times it was dealt
+The hand: King, 4 won 1153 times, and was dealt 5919 times that comes out to 19% of times it was dealt
+The hand: King, 5 won 1184 times, and was dealt 5949 times that comes out to 20% of times it was dealt
+The hand: King, 6 won 1269 times, and was dealt 6078 times that comes out to 21% of times it was dealt
+The hand: King, 7 won 1294 times, and was dealt 5957 times that comes out to 22% of times it was dealt
+The hand: King, 8 won 1393 times, and was dealt 6017 times that comes out to 23% of times it was dealt
+The hand: King, 9 won 1374 times, and was dealt 5967 times that comes out to 23% of times it was dealt
+The hand: King, 10 won 1446 times, and was dealt 6042 times that comes out to 24% of times it was dealt
+The hand: King, Jack won 1546 times, and was dealt 6007 times that comes out to 26% of times it was dealt
+The hand: King, Queen won 1672 times, and was dealt 6051 times that comes out to 28% of times it was dealt
+The hand: King, King won 1220 times, and was dealt 2253 times that comes out to 54% of times it was dealt
+
+The hand: Ace, 2 won 1421 times, and was dealt 5979 times that comes out to 24% of times it was dealt
+The hand: Ace, 3 won 1418 times, and was dealt 6164 times that comes out to 23% of times it was dealt
+The hand: Ace, 4 won 1392 times, and was dealt 6056 times that comes out to 23% of times it was dealt
+The hand: Ace, 5 won 1423 times, and was dealt 6055 times that comes out to 24% of times it was dealt
+The hand: Ace, 6 won 1320 times, and was dealt 5930 times that comes out to 22% of times it was dealt
+The hand: Ace, 7 won 1350 times, and was dealt 6009 times that comes out to 22% of times it was dealt
+The hand: Ace, 8 won 1416 times, and was dealt 6157 times that comes out to 23% of times it was dealt
+The hand: Ace, 9 won 1541 times, and was dealt 5925 times that comes out to 26% of times it was dealt
+The hand: Ace, 10 won 1519 times, and was dealt 5917 times that comes out to 26% of times it was dealt
+The hand: Ace, Jack won 1670 times, and was dealt 6100 times that comes out to 27% of times it was dealt
+The hand: Ace, Queen won 1781 times, and was dealt 6116 times that comes out to 29% of times it was dealt
+The hand: Ace, King won 1799 times, and was dealt 6038 times that comes out to 30% of times it was dealt
+The hand: Ace, Ace won 1399 times, and was dealt 2262 times that comes out to 62% of times it was dealt
+
